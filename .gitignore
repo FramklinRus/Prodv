@@ -13,6 +13,12 @@ Debug/
 2/.vs
 2/2/x64
 2/x64
+3/.vs
+3/3/catch2
+3/3/.vs
+3/3/3
+3/3/Debug
+3/3/out
 # Build artifacts
 *.obj
 *.exe
