@@ -19,6 +19,9 @@ Debug/
 3/3/3
 3/3/Debug
 3/3/out
+4/.vs
+4/4/x64
+4/x64
 # Build artifacts
 *.obj
 *.exe
