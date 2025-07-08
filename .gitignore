@@ -25,6 +25,9 @@ Debug/
 5/.vs
 5/5/x64
 5/x64
+6/.vs
+6/6/x64
+6/x64
 # Build artifacts
 *.obj
 *.exe
